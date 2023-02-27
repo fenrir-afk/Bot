@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("Branch1+First commit+Second Commit+third commit");
         System.out.println("Branch1+First commit+Second Commit+third commit");
+        System.out.println("Branch1+First commit+Second Commit+third commit");
 
     }
 }
